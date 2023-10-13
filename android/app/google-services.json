@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "144003723996",
+    "project_id": "school-automation-64155",
+    "storage_bucket": "school-automation-64155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144003723996:android:461e62c8b08f32b27afa19",
+        "android_client_info": {
+          "package_name": "com.android.hamitmizrak.schoolAutomation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0RnsWDahEjOk62dCckeIyRPwyQ25lg-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
